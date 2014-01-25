@@ -1,0 +1,2 @@
+dealism-static
+==============
